@@ -1,9 +1,10 @@
 ### Opa! Eu me chamo Isaac Figueiredo, seja muito bem-vindo! 
 
 - 🔭 Atualmente trabalhando na Performance Brasil
-- 🌱 
+- 🌱 Desenvolvedor Pleno Fullstack
 - 💬 Fazendo a diferença um dia de cada vez!
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Sou formado em Direito e Advoguei 2 anos antes de virar Dev!
+- 🌐 Português e Inglês
 
 <div align="center">
   <a href="https://github.com/figueiredoisaac">
@@ -24,7 +25,7 @@
   
 </div>
 
-##
+### Fala comigo! 👇
 
 <div style="display: inline_block"><br> 
   <a href="https://instagram.com/figueiredoisaac" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
