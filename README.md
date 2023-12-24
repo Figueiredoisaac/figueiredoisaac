@@ -3,7 +3,8 @@
 - 🔭 Atualmente trabalhando na Performance Brasil
 - 🌱 Desenvolvedor Pleno Fullstack
 - 💬 Fazendo a diferença um dia de cada vez!
-- ⚡ Fun fact: Sou formado em Direito e Advoguei 2 anos antes de virar Dev!
+- ⚡ Fun fact: Gosto de Academia 🏋️‍♂️
+- 🏆 2024 Goal: Fazer um projeto na área de Desenvolvimento de Jogos!
 - 🌐 Português e Inglês
 
 <div align="center">
