@@ -1,6 +1,6 @@
 ### Opa! Eu me chamo Isaac Figueiredo, seja muito bem-vindo! 
 
-- 🌱 Desenvolvedor Pleno Fullstack
+- 🌱 Desenvolvedor Fullstack
 - 💬 Fazendo a diferença um dia de cada vez!
 - ⚡ Fun fact: Gosto de Academia 🏋️‍♂️
 - 🌐 Português e Inglês
