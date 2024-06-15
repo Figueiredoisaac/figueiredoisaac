@@ -3,7 +3,6 @@
 - 🌱 Desenvolvedor Pleno Fullstack
 - 💬 Fazendo a diferença um dia de cada vez!
 - ⚡ Fun fact: Gosto de Academia 🏋️‍♂️
-- 🏆 2024 Goal: Fazer um projeto na área de Desenvolvimento de Jogos!
 - 🌐 Português e Inglês
 
 <div align="center">
