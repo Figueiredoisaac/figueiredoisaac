@@ -1,6 +1,5 @@
 ### Opa! Eu me chamo Isaac Figueiredo, seja muito bem-vindo! 
 
-- 🔭 Atualmente trabalhando na <a href="https://pbr.digital" target="_blank">Performance Brasil</a>
 - 🌱 Desenvolvedor Pleno Fullstack
 - 💬 Fazendo a diferença um dia de cada vez!
 - ⚡ Fun fact: Gosto de Academia 🏋️‍♂️
