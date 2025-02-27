@@ -53,5 +53,6 @@
 
 <div>
 <img src="https://raw.githubusercontent.com/figueiredoisaac/figueiredoisaac/output/snake.svg" alt="Snake animation" />
+  <br/>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=figueiredoisaac.figueiredoisaac&left_text=Visitors"  /> 
 </div>
