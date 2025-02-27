@@ -52,6 +52,6 @@
   <a href="https://www.linkedin.com/in/figueiredoisaac" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <div>
-### <img src="https://raw.githubusercontent.com/figueiredoisaac/figueiredoisaac/output/snake.svg" alt="Snake animation" />
-### <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=figueiredoisaac.figueiredoisaac&left_text=Visitors"  /> 
+<img src="https://raw.githubusercontent.com/figueiredoisaac/figueiredoisaac/output/snake.svg" alt="Snake animation" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=figueiredoisaac.figueiredoisaac&left_text=Visitors"  /> 
 </div>
