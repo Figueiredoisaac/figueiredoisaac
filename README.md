@@ -4,10 +4,9 @@
 - 💬 Changing the world a byte at a time
 - 🌐 Portuguese and English
 
-<div align="center">
-  <a href="https://github.com/figueiredoisaac">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=figueiredoisaac&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=figueiredoisaac&layout=compact&langs_count=7&theme=radical"/>
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=figueiredoisaac&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=figueiredoisaac&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 <div style="display: inline_block">
