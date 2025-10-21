@@ -1,6 +1,6 @@
 ### Hello! I'm Isaac Figueiredo! 
 
-- 🌱 Software Engineer at PBR Digital
+- 🌱 Software Engineer at Alura
 - 💬 Changing the world a byte at a time
 - 🌐 Portuguese and English
 
